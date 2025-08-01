@@ -1,0 +1,25 @@
+{
+  "label": "ThingBuddy",
+  "tags": [
+    "screensaver",
+    "webappOnly"
+  ],
+  "requires": [],
+  "version": "0.11.4",
+  "requiredVersions": {
+    "server": ">=0.0.0",
+    "client": ">=0.11.2"
+  },
+  "description": "Companion app for DeskThing.",
+  "author": "Bmilner88",
+  "platforms": [
+    "windows",
+    "linux",
+    "mac"
+  ],
+  "repository": "",
+  "homepage": "",
+  "updateUrl": "",
+  "id": "thingbuddy",
+  "template": "full"
+}
