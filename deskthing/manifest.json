@@ -17,9 +17,9 @@
     "linux",
     "mac"
   ],
-  "repository": "",
-  "homepage": "",
-  "updateUrl": "",
+  "repository": "https://github.com/Bmilner88/thingbuddy",
+  "homepage": "https://github.com/Bmilner88/thingbuddy",
+  "updateUrl": "https://github.com/Bmilner88/thingbuddy",
   "id": "thingbuddy",
   "template": "full"
 }
